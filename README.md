@@ -26,7 +26,6 @@ the GitHub fork-and-pull request workflow.
 
 Changes were updated after reviewing the pull request feedback.
 
-
 ## LAB EX15
 
 
